@@ -1,7 +1,7 @@
-# Morning Exercise - Debugging
+# Fullstack - Debugging
 ![](https://media.giphy.com/media/WM3HX2cZ3zTry/giphy.gif)
 
-For this morning's exercise we will debug an Express App! It will be your job to move step by step through the app in order to find the bugs and fix them. Watch out for syntax errors, as well as those affecting modules and file paths, and general functionality. There are a total of 9 bugs in the entire program. 
+For today's exercise we will debug an Express App! It will be your job to move step by step through the app in order to find the bugs and fix them. Watch out for syntax errors, as well as those affecting modules and file paths, and general functionality. There are a total of 9 bugs in the entire program. 
 
 # 1. Set up
 * fork and clone this repo
