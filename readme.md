@@ -22,7 +22,7 @@ The app needs the following features to work correctly from a user's perspective
 * Make sure all links on every page work
 * Ensure that the views are displaying all the information they should be
 
-#4. Tips 
+# 4. Tips 
 * Use error messages
 * Use console.logs
 * Use your brain
