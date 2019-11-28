@@ -19,4 +19,4 @@ app.use(bodyParser.json());
 // connect router
 app.use(require('./router'));
 
-app.listen(PORT, () => console.log('Server is listening on port', 4000));
+app.listen(PORT, () => console.log(`Server is listening on port ${PORT}`));
